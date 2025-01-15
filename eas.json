@@ -1,0 +1,16 @@
+{
+  "build": {
+    "development": {
+      "distribution": "internal"
+    },
+    "production": {
+      "distribution": "store",
+      "android": {
+        "buildType": "app-bundle"
+      },
+      "ios": {
+        "buildType": "release"
+      }
+    }
+  }
+}

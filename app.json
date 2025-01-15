@@ -27,6 +27,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "777fcf06-5641-487c-9e46-1d9b92955824"
+      }
+    },
+    "owner": "shantanu17"
   }
 }
