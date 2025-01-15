@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "betaCalculator",
-    "slug": "betaCalculator",
+    "name": "calculator-shantanu",
+    "slug": "calculator-shantanu",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -11,7 +11,9 @@
       "backgroundColor": "#ffffff"
     },
     "updates": {
-      "fallbackToCacheTimeout": 0
+      "fallbackToCacheTimeout": 0,
+      "enabled": true,
+      "checkAutomatically": "ON_ERROR_RECOVERY"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -34,5 +36,6 @@
       }
     },
     "owner": "shantanu17"
+    
   }
 }

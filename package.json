@@ -14,6 +14,7 @@
     "@expo/metro-config": "^0.10.0",
     "expo": "^50.0.7",
     "expo-status-bar": "~1.11.1",
+    "expo-updates": "^0.26.12",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-native": "0.73.4",
